@@ -34,16 +34,17 @@ header {
 }
 
 #column-1 {
-  background: black;
+  background: green;
 }
 
 #column-2 {
-  background: black;
+  background: blue;
 }
 
 #column-3 {
-  background: black;
+  background: pink;
 }
+
 
 
 /*---------- FOOTER ----------*/
@@ -65,15 +66,19 @@ footer {
 
   #column-1 {
     background-color: darksalmon ;
+    width: 50%;
   }
 
   #column-2 {
     background-color: chocolate ;
+    width: 50%;
   }
 
   #column-3 {
     background-color: coral ;
+    width: 100%;
   }
+
 
   footer {
     background-color: lightsalmon ;
@@ -90,14 +95,17 @@ footer {
 
   #column-1 {
     background-color: deepskyblue;
+    width: 33.3333%;
   }
 
   #column-2 {
     background-color: cyan;
+    width: 33.3333%;
   }
 
   #column-3 {
     background-color: darkcyan;
+    width: 33.3333%;
   }
 
   footer {
